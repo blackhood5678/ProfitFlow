@@ -1,0 +1,121 @@
+{
+  "bundler": "rollup",
+  "shimport": "2.0.4",
+  "assets": {
+    "main": "client.38617a5e.js"
+  },
+  "css": {
+    "main": [
+      "client-b1a245a5.css"
+    ]
+  },
+  "dependencies": {
+    "index.svelte": [
+      "index.7a4f085b.js",
+      "inject_styles.5607aec6.js"
+    ],
+    "doggie-details.svelte": [
+      "doggie-details.50623ce9.js",
+      "inject_styles.5607aec6.js"
+    ],
+    "converter/index.svelte": [
+      "index.307901f8.js",
+      "inject_styles.5607aec6.js",
+      "index-87ba2f36.css"
+    ],
+    "converter/[id].svelte": [
+      "_id_.0ff80f3f.js",
+      "inject_styles.5607aec6.js",
+      "_id_-f76e19fd.css"
+    ],
+    "register.svelte": [
+      "register.83883b14.js",
+      "axios.10fb4daa.js",
+      "Toast.0a10c4d3.js",
+      "inject_styles.5607aec6.js",
+      "register-c04d5f85.css"
+    ],
+    "settings/index.svelte": [
+      "index.ce1c71d3.js",
+      "axios.10fb4daa.js",
+      "inject_styles.5607aec6.js"
+    ],
+    "history/[id].svelte": [
+      "_id_.2d304e7c.js",
+      "inject_styles.5607aec6.js",
+      "_id_-252ec1aa.css"
+    ],
+    "profile/index.svelte": [
+      "index.7f172212.js",
+      "inject_styles.5607aec6.js",
+      "index-bab06493.css"
+    ],
+    "tickets/[id].svelte": [
+      "_id_.c5fc2dd8.js",
+      "inject_styles.5607aec6.js",
+      "_id_-252ec1aa.css"
+    ],
+    "gadmin/add-company/index.svelte": [
+      "index.90d838d5.js",
+      "inject_styles.5607aec6.js",
+      "index-97c8fc55.css"
+    ],
+    "gadmin/companies/index.svelte": [
+      "index.81384cf3.js",
+      "Modal.f38ccd69.js",
+      "Toast.0a10c4d3.js",
+      "axios.10fb4daa.js",
+      "inject_styles.5607aec6.js",
+      "index-86d27fb4.css"
+    ],
+    "gadmin/companies/[id].svelte": [
+      "_id_.1d64b88e.js",
+      "Modal.f38ccd69.js",
+      "Toast.0a10c4d3.js",
+      "axios.10fb4daa.js",
+      "inject_styles.5607aec6.js",
+      "_id_-765c4f87.css"
+    ],
+    "gadmin/customers/[id].svelte": [
+      "_id_.ec2a7cec.js",
+      "inject_styles.5607aec6.js",
+      "_id_-3db055ee.css"
+    ],
+    "about.svelte": [
+      "about.52e59222.js",
+      "inject_styles.5607aec6.js"
+    ],
+    "admin/converters/index.svelte": [
+      "index.41526970.js",
+      "inject_styles.5607aec6.js",
+      "index-ac0b133a.css"
+    ],
+    "admin/customers/index.svelte": [
+      "index.04a2d322.js",
+      "Modal.f38ccd69.js",
+      "Toast.0a10c4d3.js",
+      "inject_styles.5607aec6.js",
+      "index-765c4f87.css"
+    ],
+    "admin/customers/[id].svelte": [
+      "_id_.76bf9d8e.js",
+      "inject_styles.5607aec6.js",
+      "_id_-4b34f730.css"
+    ],
+    "admin/edit-user/[id].svelte": [
+      "_id_.853ef696.js",
+      "inject_styles.5607aec6.js",
+      "_id_-17f003b9.css"
+    ],
+    "admin/add-user/index.svelte": [
+      "index.19352cd8.js",
+      "inject_styles.5607aec6.js",
+      "index-17f003b9.css"
+    ],
+    "login.svelte": [
+      "login.599851b4.js",
+      "inject_styles.5607aec6.js",
+      "login-97989ca4.css"
+    ]
+  }
+}
